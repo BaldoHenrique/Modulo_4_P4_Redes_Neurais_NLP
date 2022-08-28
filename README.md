@@ -32,9 +32,9 @@ Curso Ciência de dados da Blue Edtech - Recomendação de vinhos - Wine Reviews
 ## Projeto
   1. Use os passos do Crisp-DM para desenvolver o projeto.
   2. Observe os dados e busque levantar observações importantes, tais como:
-     a. Qual vinho é o mais caro? E o mais barato?
-     b. Qual especialista avaliou mais vinhos? Qual a sua nota média?
-     c. Qual região possui os vinhos com as maiores avaliações? E qual possui os vinhos mais baratos?
+     1. Qual vinho é o mais caro? E o mais barato?
+     2. Qual especialista avaliou mais vinhos? Qual a sua nota média?
+     3. Qual região possui os vinhos com as maiores avaliações? E qual possui os vinhos mais baratos?
   3. Faça o sistema de recomendação
   4. Escreva o relatório
   5. Disponibilize o repositório do seu projeto
